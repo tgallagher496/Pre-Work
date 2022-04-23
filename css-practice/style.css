@@ -1,0 +1,37 @@
+h1{
+text-align: center;
+
+}
+.red{color:red;
+}
+.blue{color:blue;
+}
+.green{color:rgb(128, 202, 128);
+}
+p.BIG{
+    font-size:24px;
+}
+p.SMALL{
+    font-size:7px;
+}
+p.center{
+    text-align: center;
+}
+p.bold{
+    font-weight: bold;
+}
+p.font{
+    font-family: cursive;
+}
+p.bigboldorange{
+    font-size: 24px;
+    font-weight: bold;
+    color:orange;
+}
+p.styledFont{
+    color:green;
+}
+img{
+    border:10px solid rgb(214, 142, 34);
+    background-color:rgb(56, 59, 243);
+}
